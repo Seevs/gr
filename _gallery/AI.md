@@ -1,7 +1,7 @@
 ---
 author: Seevs
 title: AI
-image_url: /images/AI.jpg 
+image_url: /images/AI.jpg
 caption: 'Ειναι ο σχεδιασμος καποιου προγραμματος που προσπαθει να μιμηθει τον ανθρωπο η
 καποιες ενεργειες του.'
 ---
