@@ -15,7 +15,7 @@ title                    : "Ο Προγραμματισμός της Διάδρ�
 title_separator          : "-"
 name                     : "Seevs"
 description              : "Making Interactivity Greek Book."
-url                      : "https://seevs.github.io/gr"
+url                      : "https://Seevs.github.io/gr"
 baseurl                  : "/gr"
 repository               : "Seevs/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -66,7 +66,7 @@ author:
   location         :
   email            :
   uri              :
-  home             : "https://seevs.github.io/gr"
+  home             : "https://Seevs.github.io/gr"
   bitbucket        :
   codepen          :
   dribbble         :
